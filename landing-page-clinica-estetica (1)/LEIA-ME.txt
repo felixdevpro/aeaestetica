@@ -1,0 +1,22 @@
+LANDING PAGE — CLÍNICA DE ESTÉTICA & BEM-ESTAR
+
+ARQUIVOS
+- index.html: textos e estrutura da página.
+- style.css: cores, espaçamentos, animações e versão responsiva.
+- script.js: WhatsApp, Instagram, menu mobile e animações.
+- hero-clinica.png: imagem principal.
+
+PERSONALIZAÇÃO RÁPIDA
+1. Abra o arquivo script.js.
+2. O WhatsApp está configurado como 55 22 98181-4636. Para trocar, altere whatsappNumber somente com números.
+3. Troque instagramUrl pelo endereço completo do Instagram.
+4. No index.html, use localizar/substituir para trocar “A&A Estética” pelo nome da clínica.
+5. Procure pelo endereço atual para alterá-lo também no texto, link e mapa.
+
+EXEMPLO DE WHATSAPP
+whatsappNumber: "5522981814636"
+
+IMPORTANTE
+- Os textos evitam promessas de resultado garantido.
+- Antes/depois deve ser usado somente com autorização e conforme as normas aplicáveis.
+- Para trocar a imagem principal, mantenha o nome hero-clinica.png.
